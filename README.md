@@ -7,7 +7,7 @@ Install
 
 ```javascript
 
-npm install -g image-compressor-plugin
+npm install -D image-compressor-plugin
 
 ```
 
