@@ -53,6 +53,10 @@
         "plugin",
         "imageCompressor"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuhongda/image-compressor-plugin.git"
+    },
     "author": "yu.hongda",
     "license": "ISC"
 }
