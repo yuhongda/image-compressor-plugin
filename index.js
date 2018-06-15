@@ -1,5 +1,5 @@
 'use strict';
-import 'babel-polyfill'
+require('babel-polyfill')
 const compressor = require('./src/compressor.js');
 const readline = require('readline');
 const ora = require('ora')
